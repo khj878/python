@@ -1,0 +1,7 @@
+{
+    "trade_id": "T003",
+    "stock_name": "현대차",
+    "order_type": "매수",
+    "quantity": 1,
+    "price": 480000
+}

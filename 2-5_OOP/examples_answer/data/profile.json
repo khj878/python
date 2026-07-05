@@ -1,0 +1,16 @@
+{
+    "account_name": "AI 투자연습 계좌",
+    "cash": 300000,
+    "stocks": [
+        {
+            "name": "삼성전자",
+            "quantity": 2,
+            "current_price": 330000
+        },
+        {
+            "name": "현대차",
+            "quantity": 1,
+            "current_price": 480000
+        }
+    ]
+}

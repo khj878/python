@@ -1,0 +1,7 @@
+{
+    "trade_id": "T001",
+    "stock_name": "삼성전자",
+    "order_type": "매수",
+    "quantity": 3,
+    "price": 70000
+}

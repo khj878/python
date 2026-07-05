@@ -1,0 +1,7 @@
+{
+    "trade_id": "T002",
+    "stock_name": "카카오",
+    "order_type": "매도",
+    "quantity": 2,
+    "price": 51000
+}
