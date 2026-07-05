@@ -1,7 +1,7 @@
 name = "Julie"
 age = 30
 language = "Python"
-
+#test
 print(f"이름: {name}")
 print(f"나이: {age}")
 print(f"언어: {language}")
